@@ -10,8 +10,7 @@ To practice shell commands, Git initialization, status checking, staging, and co
 ## Reflection
 Git helps track changes without creating many duplicate filenames.
 
-##
-//Reflection Questions
+## Reflection Questions
 Why is version control better than duplicate files? It eliminates "folder chaos." Instead of having project_v1 and project_final, Git keeps one clean file and allows you to "time travel" to any previous version using snapshots.
 
 Why is git status called a radar or compass? Because it provides immediate orientation. It tells you exactly which files are changed, staged, or untracked so you never get lost in your project.
